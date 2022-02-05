@@ -2,7 +2,7 @@
 
 | No. |    Title      |              Progress                |
 | :-: |     :-:       |                :-:                   |
-|  1  |   C00         | ![100%](https://progress-bar.dev/100)|
+|  1  |   C00         | ![60%](https://progress-bar.dev/60)  |
 |  2  |   C01         | ![50%](https://progress-bar.dev/50)  |
 |  3  |   C02         | ![50%](https://progress-bar.dev/50)  |
 |  4  |   C03         | ![50%](https://progress-bar.dev/50)  |
@@ -23,5 +23,5 @@
 | 16  |   Rush 00     | ![50%](https://progress-bar.dev/50)  |
 | 16  |   Rush 01     | ![50%](https://progress-bar.dev/50)  |
 | 16  |   Rush 02     | ![50%](https://progress-bar.dev/50)  |
-| 16  |   Shell 00    | ![50%](https://progress-bar.dev/50)  |
+| 16  |   Shell 00    | ![100%](https://progress-bar.dev/100)|
 | 16  |   Shell 01    | ![50%](https://progress-bar.dev/50)  |
